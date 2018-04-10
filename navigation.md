@@ -4,14 +4,17 @@
 
 [Docs]()
 
-  * [Quickstart](quickstart.md)
-  * [Layout](layout.md)
-  * [FAQ](faq.md)
+  * [基本事項](Docs/Basis/basis.md)
+  - - - -
+  * [脚本](Docs/Story/story.md)
+  * [絵コンテ](Docs/Storyboard/storyboard.md)
+  * [プリビズ](Docs/Previz/previz.md)
+  * [撮影](Docs/Recording/recording.md)
+  * [編集](Docs/Edition/editing.md)
   - - - -
   * # Advanced
   * [Customizing](customizing.md)
 
-[Gimmicks](gimmicks.md)
 
 [Tutorials]()
 
@@ -25,8 +28,6 @@
 [Examples](examples.md)
 [Download](download.md)
 [Contribute](contribute/index.md)
-[Blog](Blog/blog.md)
-[Forum](forum.md)
 [gimmick:theme (inverse: false)](Sketchy)
 
 <!-- counter pixel for counting visitors -->
